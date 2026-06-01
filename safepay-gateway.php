@@ -4,7 +4,7 @@
   Plugin Name:  Safepay for WooCommerce
   Plugin URI:   https://github.com/getsafepay/safepay-woocommerce
   Description:  Safepay Payment Gateway Integration for WooCommerce.
-  Version:      2.0
+  Version:      3.0
   Author:       Team Safepay
   Author URI:   https://getsafepay.com
   License:      GPL-2.0+
